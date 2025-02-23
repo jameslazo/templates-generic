@@ -12,7 +12,7 @@
 .npm/
 
 # Whitelist directories/files/patterns
-!.github/*
+!.github/**
 !.gitignore
 !*.md
 
